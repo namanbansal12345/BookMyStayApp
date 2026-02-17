@@ -37,4 +37,8 @@ public class PalindromeCheckerAppv4 {
 
         scanner.close();
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> UC4-PallindromeWelcome
